@@ -2,7 +2,7 @@
 	import Modal from "./Modal.svelte";
 	import AddPersonForm from "./AddPersonForm.svelte";
 
-	let firstName = 'Alex';
+	let firstName = 'Alexx';
 	let lastName = 'Smith'
 	let beltcolor = 'blue';
 

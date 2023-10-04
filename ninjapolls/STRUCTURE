@@ -1,0 +1,13 @@
+STRUCTURE
+
+APP:
+
+HEADER
+PoolList -> PoolDetails
+CreatePoolForm
+Store
+FOOTER
+
+Button
+Card
+Tabs

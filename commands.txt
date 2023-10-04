@@ -4,6 +4,6 @@ degit sveltejs/template myproject
 
 code .
 
-C:\CODING\Svelte\myproject> npm install
+npm install
 
 npm run dev
